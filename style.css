@@ -1,0 +1,34 @@
+body
+{
+    background-color: darkcyan;
+    text-align: center;
+    position: center;
+    padding-top: 250px;
+}
+
+#quantity
+{
+    background-color: aqua;
+    border-style: groove;
+    font-size: 30px;
+}
+#item
+{
+    background-color: aqua;
+    border-style: groove;
+    font-size: 30px;
+}
+
+#Grocery_List
+{
+    border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+button{
+    background-color: green;
+}
+
